@@ -1,0 +1,5 @@
+cname_active:
+  "@": ""
+  "no_cf":  # 如果你不需要 Cloudflare CDN 的代理，请参考此配置
+    domain: ""
+    no_cf: true
